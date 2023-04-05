@@ -1,7 +1,7 @@
 # Spring_POS SYSTEM_web project
 
 ### 🟦 회원가입 & 정보수정
-
+![회원 정보수정](https://user-images.githubusercontent.com/39732720/229993890-acf119f8-3594-467c-9df7-87ba67acd68d.gif)
 
 ### 🟦 로그인
 
